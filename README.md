@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python :snake:,  git :octocat: or life/ERROR 404 :sleepy:
 - 📫 Reach out to me on telegram or instagram : <b>@outcast_dreamer</b> 
 - :wink: Fun facts : I :heart: :musical_note::coffee::computer: !!
-- ⚡ My Motto ~
+- ⚡ <b>My Motto ~</b>
 
 <br>
 <p align="center" width="100%">
