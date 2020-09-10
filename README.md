@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I am also learning Javascript and developing projects in Python. 
 - 💬 Ask me about Python, git and life/ERROR 404. 
 - 📫 Reach out to me on telegram or instagram : <b>@outcast_dreamer</b> 
-- ⚡ My Motto??? See below ~
+- ⚡ My Motto is :
 <br>
 <p align="center" width="100%">
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="300" width="300" align="center" />
