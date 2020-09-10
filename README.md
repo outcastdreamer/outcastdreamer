@@ -10,7 +10,7 @@ I love to code and am an avid coder in Python and am interested in domains such 
 - ⚡ My Motto??? See below ~
 <br>
 <center>
-[<img src="attachment:ESCR.gif" height="300" width="300"/>](ESCR.gif)
+![<img src="attachment:ESCR.gif" height="300" width="300"/>](ESCR.gif)
 </center>
 <hr>
 
