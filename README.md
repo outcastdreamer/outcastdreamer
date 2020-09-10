@@ -1,5 +1,4 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi there!! I am Saket :metal: ~ </h2>
-<hr>
 I go by the alias <b>"outcast_dreamer"</b> on most platforms and love to code and I am an avid coder in Python. I am interested in domains such as Full stack development, Data Science and Automation and currently going full throttle with my learning phase ~
 <hr> 
 
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python :snake:,  git :octocat: or life/ERROR 404 :sleepy:
 - 📫 Reach out to me on telegram or instagram : <b>@outcast_dreamer</b> 
 - :wink: Fun facts : I :heart: :musical_note::coffee::computer: !!
-- ⚡ **My Motto ~**
+- ⚡ My Motto ~
 
 <br>
 <p align="center" width="100%">
