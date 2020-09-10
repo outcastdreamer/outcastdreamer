@@ -11,7 +11,7 @@ I love to code and am an avid coder in Python and am interested in domains such 
 <br>
 <center>
 <div style="text-align:center">
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="300" width="300" align="center" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="300" width="300" align="center" />
 </div>
 </center>
 <hr>
