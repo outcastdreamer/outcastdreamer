@@ -1,7 +1,6 @@
 ### Hi there 👋
 My name is Saket Savarn and I go by the alias <b>"outcast_dreamer"</b> on most platforms.
 I love to code and am an avid coder in Python and am interested in domains such as Full stack development, Data Science and Automation.
-<br>
 <hr> 
 
 - 🔭 I am currently working on Automation Projects using Python.
@@ -10,8 +9,9 @@ I love to code and am an avid coder in Python and am interested in domains such 
 - 📫 Reach out to  on telegram or instagram : @outcast_dreamer 
 - ⚡ My Motto??? See below ~
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="300" width="300" />
-<br>
+<p align="center" width="100%">
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="300" width="300" align="center" />
+</p>
 <hr>
 
 <!--
