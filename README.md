@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2020 - 09 September, 2020
+Week: 03 September, 2020 - 10 September, 2020
 
 Markdown              42 mins         ██████████████░░░░░░░░░░░   56.56 % 
 Python                26 mins         █████████░░░░░░░░░░░░░░░░   35.44 % 
