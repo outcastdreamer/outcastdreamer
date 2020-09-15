@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
+Week: 07 September, 2020 - 14 September, 2020
 
-Python                7 hrs 40 mins   ████████████████████░░░░░   79.71 % 
-Markdown              49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Git Config            30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-JSON                  18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Sublime Text Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python       7 hrs 44 mins   ███████████████████▒░░░░░   77.83 % 
+Markdown     49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Git Config   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
 
