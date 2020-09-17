@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-📊 **This week I spent my time on :**
+📊 **According to the Tracker bot, This week I spent my time on :**
 <br>
 
 <!--START_SECTION:waka-->
