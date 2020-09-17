@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
+:five: **My Top 5 languages :**
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 📊 **According to the Tracker bot, This week I spent my time on :**
 <br>
 
