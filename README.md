@@ -30,6 +30,8 @@ Here are some ideas to get you started:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
+
 📊 **According to the Tracker bot, This week I spent my time on :**
 <br>
 
