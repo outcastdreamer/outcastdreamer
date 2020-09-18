@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-📊 **According to the Tracker bot, This week I spent my time on :**
+📊 **According to the Tracker bot, this week I spent my time on :**
 <br>
 
 <!--START_SECTION:waka-->
