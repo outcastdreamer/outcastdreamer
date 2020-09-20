@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-:five: **My Top 5 languages :**
+:five: **My Top 5 languages :**<br>
+(The HTML Stats are due to pushing Jupyter Notebooks saved as HTML files to few of my repos, besides HTML all other stats are accurate)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
