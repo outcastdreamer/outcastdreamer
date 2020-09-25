@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2020 - 23 September, 2020
+Week: 17 September, 2020 - 24 September, 2020
 
 HTML     41 mins         ███████████████████░░░░░░   76.54 % 
 Text     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
