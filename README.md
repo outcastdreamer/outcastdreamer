@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2020 - 25 September, 2020
+Week: 19 September, 2020 - 26 September, 2020
 
-HTML     41 mins         ██████████████████▒░░░░░░   73.61 % 
-Text     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Other    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Python   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+HTML     26 mins         ████████████████░░░░░░░░░   64.31 % 
+Text     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Other    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Python   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JSON     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 <!--END_SECTION:waka-->
 
