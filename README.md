@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2020 - 28 September, 2020
+Week: 22 September, 2020 - 29 September, 2020
 
-Python                6 hrs 23 mins   █████████████████████████   99.38 % 
-Sublime Text Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Python                7 hrs 33 mins   █████████████████████████   99.47 % 
+Sublime Text Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
