@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2020 - 07 October, 2020
+Week: 01 October, 2020 - 08 October, 2020
 
 Python       4 hrs 59 mins   █████████████████████░░░░   83.72 % 
 JSON         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
