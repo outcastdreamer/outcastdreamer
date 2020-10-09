@@ -10,14 +10,15 @@ I go by the alias <b>"outcast_dreamer"</b> on most platforms and love to code an
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 😄 Tags: Python
+
 - ⚡ Fun fact:
 -->
 
 - 🔭 I am currently working on Automation Projects using Python
 - 🌱 I am also learning Javascript and Data Science with Python 
 - 💬 Ask me about Python :snake:,  git :octocat: or life/ERROR 404 :sleepy:
-- 📫 Reach out to me on telegram or instagram : <b>@outcast_dreamer</b> 
+- 📫 Reach out to me on telegram or instagram : <b>[@outcast_dreamer](https://www.instagram.com/outcast_dreamer/)</b> or <b>[Linkedin](https://www.linkedin.com/in/saket-savarn/)</b>.
+- 😄 Tags: Python, Git, Data Structures, Shell Scripting, Algorithms.
 - :wink: Fun facts : I :heart: :musical_note::coffee::computer: !!
 - ⚡ <b>My Motto ~</b>
 
