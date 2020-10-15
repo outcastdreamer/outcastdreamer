@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 </p>
 <br>
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=outcastdreamer" alt="felirox" /> </p>
+<br>
 
 :five: **My Top 5 languages :**<br>
 (The HTML Stats is the highest due to me pushing Jupyter Notebooks saved as HTML files to few of my repos, so I wouldn't really count HTML stats)
