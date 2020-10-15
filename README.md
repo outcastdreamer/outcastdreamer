@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2020 - 13 October, 2020
+Week: 07 October, 2020 - 14 October, 2020
 
-Python     1 hr 37 mins    ███████████████████████▒░   93.56 % 
-Markdown   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python     1 hr 14 mins    ███████████████████████░░   91.73 % 
+Markdown   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 <!--END_SECTION:waka-->
 
