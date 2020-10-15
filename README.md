@@ -1,4 +1,4 @@
-<pre><i><b><p align="center">Long exposure to dark mode has made me Code blooded, making me addicted to the unique parseltongue, Python.<br>I now speak in this cryptic language, while often been fueled from the energy of black coffee<br>whilst listening to dope songs ~</h3></b></i> © </p></pre>
+<pre><i><b><p align="center"><h3>Long exposure to dark mode has made me Code blooded, making me addicted to the unique parseltongue, Python.<br>I now speak in this cryptic language, while often been fueled from the energy of black coffee<br>whilst listening to dope songs ~</h3></b></i> © </p></pre>
 <hr>
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi there!! I am Saket :metal: ~ </h2>
 I go by the alias <b>"outcast_dreamer"</b> on most platforms and love to code and I am an avid coder in Python. I am interested in domains such as Full stack development, Data Science and Automation and currently going full throttle with my learning phase on these topics ~ :bow:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working on Automation Projects using Python
 - 🌱 I am also learning Javascript and Data Science with Python 
-- 💬 Ask me about Python :snake:,  git :octocat: or life/ERROR 404 :sleepy:
+- 💬 Ask me about Python :snake:,  git :octocat: or Life/ERROR 404 :sleepy:
 - 📫 Reach out to me on telegram or instagram : <b>[@outcast_dreamer](https://www.instagram.com/outcast_dreamer/)</b> or <b>[Linkedin](https://www.linkedin.com/in/saket-savarn/)</b>.
 - 😄 Tags: Python, Git, Data Structures, Shell Scripting, Algorithms.
 - :wink: Fun facts : I :heart: :musical_note::coffee::computer: !!
