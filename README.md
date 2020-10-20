@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2020 - 18 October, 2020
+Week: 12 October, 2020 - 19 October, 2020
 
 Markdown     8 mins          ██████████████▓░░░░░░░░░░   59.02 % 
 Python       5 mins          ██████████▒░░░░░░░░░░░░░░   40.98 % 
