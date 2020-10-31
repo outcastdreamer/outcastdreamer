@@ -43,11 +43,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2020 - 29 October, 2020
+Week: 23 October, 2020 - 30 October, 2020
 
-Python     45 mins         █████████████████░░░░░░░░   67.80 % 
-Other      11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Markdown   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Python   45 mins         ████████████████████░░░░░   79.95 % 
+Other    11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 ```
 <!--END_SECTION:waka-->
 
