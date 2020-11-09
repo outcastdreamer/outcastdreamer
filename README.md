@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 November, 2020 - 08 November, 2020
+
+Python   14 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
