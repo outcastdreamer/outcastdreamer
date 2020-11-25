@@ -43,7 +43,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 November, 2020 - 24 November, 2020
+
+Python                11 mins         ███████████████▓░░░░░░░░░   62.29 % 
+Sublime Text Config   6 mins          █████████▒░░░░░░░░░░░░░░░   37.71 % 
 ```
 <!--END_SECTION:waka-->
 
