@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2020 - 25 November, 2020
+Week: 19 November, 2020 - 26 November, 2020
 
 Python                11 mins         ███████████████▓░░░░░░░░░   62.29 % 
 Sublime Text Config   6 mins          █████████▒░░░░░░░░░░░░░░░   37.71 % 
