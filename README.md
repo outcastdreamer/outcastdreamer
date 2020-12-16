@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2020 - 14 December, 2020
+Week: 08 December, 2020 - 15 December, 2020
 
-Python                18 mins         █████████████▓░░░░░░░░░░░   54.31 % 
-Other                 12 mins         █████████░░░░░░░░░░░░░░░░   35.65 % 
-Sublime Text Config   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Python                18 mins         █████████████░░░░░░░░░░░░   52.56 % 
+Other                 12 mins         ████████▓░░░░░░░░░░░░░░░░   34.50 % 
+Sublime Text Config   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+JSON                  1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 <!--END_SECTION:waka-->
 
