@@ -43,11 +43,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
-Python   9 mins          █████████████████░░░░░░░░   67.85 % 
-Other    3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
-JSON     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+JSON   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
