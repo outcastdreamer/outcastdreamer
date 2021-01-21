@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2021 - 19 January, 2021
+Week: 13 January, 2021 - 20 January, 2021
 
-HTML   15 mins         ████████████████▓░░░░░░░░   66.29 % 
-XSLT   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-XML    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+HTML     15 mins         ██████████████▓░░░░░░░░░░   58.94 % 
+XSLT     5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.89 % 
+Python   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+XML      1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 <!--END_SECTION:waka-->
 
