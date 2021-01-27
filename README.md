@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
 HTML     8 mins          ██████████████████▓░░░░░░   74.88 % 
 Python   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.12 % 
