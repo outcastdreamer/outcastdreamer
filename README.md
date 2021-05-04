@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 April, 2021 - 02 May, 2021
+Week: 26 April, 2021 - 03 May, 2021
 
-Python                3 hrs 5 mins    ███████████████████████▒░   93.22 % 
-Batchfile             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-HTML                  3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python      1 hr 57 mins    ██████████████████████▒░░   89.71 % 
+Batchfile   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+HTML        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 <!--END_SECTION:waka-->
 
