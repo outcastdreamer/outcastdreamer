@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 June, 2021 - 10 June, 2021
+Week: 04 June, 2021 - 11 June, 2021
 
-Python     8 hrs 1 min     ███████████████████████░░   92.14 % 
-Markdown   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python     7 hrs 59 mins   ███████████████████████░░   92.12 % 
+Markdown   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
 
