@@ -43,12 +43,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
+Week: 08 July, 2021 - 14 July, 2021
 
-Python       14 hrs 16 mins  ████████████████████░░░░░   79.80 % 
-JSON         1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-AutoHotkey   1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python       14 hrs 44 mins  ████████████████████░░░░░   80.31 % 
+JSON         1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+AutoHotkey   1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 <!--END_SECTION:waka-->
 
