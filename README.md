@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2021 - 08 October, 2021
+Week: 03 October, 2021 - 09 October, 2021
 
-Python    6 hrs 23 mins   ████████████████████████░   95.62 % 
-RPMSpec   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python    7 hrs 19 mins   ████████████████████████░   96.15 % 
+RPMSpec   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 <!--END_SECTION:waka-->
 
