@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
+Week: 12 November, 2021 - 18 November, 2021
 
-Python   1 hr 59 mins    █████████████████████████   99.87 % 
+Python   2 hrs 45 mins   █████████████████████████   99.91 % 
 ```
 <!--END_SECTION:waka-->
 
