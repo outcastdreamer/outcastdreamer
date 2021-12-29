@@ -43,9 +43,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
+Week: 22 December, 2021 - 28 December, 2021
 
-Python   5 hrs 28 mins   █████████████████████████   100.00 % 
+Python       2 hrs 19 mins   ██████████████████▓░░░░░░   75.25 % 
+Other        36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Text         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
 
