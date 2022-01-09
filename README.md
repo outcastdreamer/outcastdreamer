@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 07 January, 2022
+Week: 02 January, 2022 - 08 January, 2022
 
-Python   5 hrs 14 mins   ████████████████████████▓   98.26 % 
-Text     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python   7 hrs 57 mins   ████████████████████████▓   98.59 % 
+Text     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
