@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 Python     11 hrs 1 min    ██████████████████▓░░░░░░   74.58 % 
 Markdown   3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.18 % 
