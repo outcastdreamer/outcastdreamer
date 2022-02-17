@@ -43,15 +43,15 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 12 hrs 5 mins
+Total: 7 hrs 20 mins
 
-Python     8 hrs 26 mins   █████████████████▒░░░░░░░   69.78 % 
-Markdown   3 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Text       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-SQL        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python     6 hrs 50 mins   ███████████████████████▒░   93.37 % 
+Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Text       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+SQL        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
