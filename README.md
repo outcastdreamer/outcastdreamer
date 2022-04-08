@@ -44,14 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
+From: 31 March 2022 - To: 07 April 2022
 
-TypeScript   1 hr 38 mins    ██████████████▒░░░░░░░░░░   57.62 %
-Python       1 hr            █████████░░░░░░░░░░░░░░░░   35.58 %
-HTML         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   1 hr 49 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
