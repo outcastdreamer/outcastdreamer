@@ -44,11 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
-Python       13 hrs 32 mins  █████████████████████████   99.41 %
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python   15 hrs 35 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
