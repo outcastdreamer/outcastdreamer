@@ -44,14 +44,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2022 - To: 16 May 2022
+From: 10 May 2022 - To: 17 May 2022
 
-Python       7 hrs 50 mins   ███████████████▒░░░░░░░░░   61.70 %
-HTML         4 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python       13 hrs 23 mins  ██████████████████▓░░░░░░   74.78 %
+HTML         4 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Svelte       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
