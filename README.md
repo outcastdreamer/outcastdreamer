@@ -44,10 +44,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-Python   18 hrs 17 mins  █████████████████████████   100.00 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   14 hrs 30 mins  ████████████████████████░   96.42 %
+JSON     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
