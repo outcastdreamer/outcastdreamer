@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2022 - To: 24 May 2022
+From: 18 May 2022 - To: 25 May 2022
 
-Python   14 hrs 30 mins  ████████████████████████░   96.42 %
-JSON     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python    13 hrs 5 mins   ███████████████████████▒░   93.64 %
+JSON      33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Arduino   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+C         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+CSV       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
