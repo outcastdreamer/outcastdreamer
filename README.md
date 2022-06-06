@@ -44,14 +44,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2022 - To: 04 June 2022
+From: 29 May 2022 - To: 05 June 2022
 
-Python      6 hrs 21 mins   ███████████░░░░░░░░░░░░░░   43.67 %
-Arduino     5 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.68 %
-C++         2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-JSON        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-HTML        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-C           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python      5 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   39.45 %
+Arduino     5 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.48 %
+C++         2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+JSON        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Batchfile   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+HTML        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
