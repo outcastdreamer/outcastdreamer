@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-C++           6 hrs 28 mins   █████████████████████▒░░░   85.26 %
-Python        1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-C             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+C++           2 hrs 56 mins   ██████████████████░░░░░░░   72.47 %
+Python        1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+C             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
