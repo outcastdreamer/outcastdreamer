@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-C++      3 hrs 14 mins   █████████████████████░░░░   83.78 %
-Python   37 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+C++      1 hr 52 mins    ███████████████████████▓░   94.81 %
+Python   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
 ```
 
 <!--END_SECTION:waka-->
