@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <hr>
 
 :five: **My Top 5 languages :**<br>
-(The HTML Stats is the highest due to me pushing Jupyter Notebooks saved as HTML files to few of my repos, so I wouldn't really count HTML stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
