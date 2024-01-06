@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am currently working on Automation Projects using Python
-- 🌱 I am also learning Javascript and Data Science with Python 
+- 🌱 I am also working as a ML & IoT Engineer. 
 - 💬 Ask me about Python :snake:,  git :octocat: or Life/ERROR 404 :sleepy:
 - 📫 Reach out to me on telegram or instagram : <b>[@outcast_dreamer](https://www.instagram.com/outcast_dreamer/)</b> or <b>[Linkedin](https://www.linkedin.com/in/saket-savarn/)</b>.
 - 😄 Tags: Python, Git, Data Structures, Shell Scripting, Algorithms.
@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outcastdreamer" alt="felirox" /> </p>
 <hr>
 
-:five: **My Top 5 languages :**<br>
+:bar_chart: **My Top 5 languages :**<br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <hr>
 
