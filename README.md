@@ -44,9 +44,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-C++   8 hrs 40 mins   █████████████████████████   100.00 %
+C++     7 hrs 12 mins   ████████████████████████▓   99.25 %
+Other   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
