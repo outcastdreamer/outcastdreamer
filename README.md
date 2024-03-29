@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-C++   4 hrs 2 mins    █████████████████████████   100.00 %
+C++   1 hr 20 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
