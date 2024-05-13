@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2024 - To: 10 May 2024
+From: 04 May 2024 - To: 11 May 2024
 
-C++           7 hrs 55 mins   ██████████████████████░░░   87.86 %
-Markdown      1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C++           8 hrs 44 mins   ██████████████████████▒░░   88.86 %
+Markdown      1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
