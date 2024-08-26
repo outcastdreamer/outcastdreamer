@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
 C++      13 hrs 13 mins  ██████████████████████▓░░   90.65 %
 Python   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
