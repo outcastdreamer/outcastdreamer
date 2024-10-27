@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 24 October 2024
+From: 19 October 2024 - To: 26 October 2024
 
-C++          1 hr 38 mins    █████████████████████▓░░░   86.96 %
-Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-PowerShell   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Lua          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C++        2 hrs 16 mins   ████████████████████████░   95.69 %
+Other      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
