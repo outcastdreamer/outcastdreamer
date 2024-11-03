@@ -44,11 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2024 - To: 31 October 2024
+From: 26 October 2024 - To: 02 November 2024
 
-Python   59 mins         ██████████████▓░░░░░░░░░░   59.06 %
-C++      41 mins         ██████████▒░░░░░░░░░░░░░░   40.88 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   59 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
