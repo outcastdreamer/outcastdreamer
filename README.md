@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2024 - To: 23 December 2024
+From: 17 December 2024 - To: 24 December 2024
 
-C++      11 hrs 24 mins  ████████████████████████░   96.43 %
-Other    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Python   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C++      7 hrs 22 mins   ████████████████████████▓   99.19 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
