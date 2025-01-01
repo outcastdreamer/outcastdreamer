@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 29 December 2024
+From: 23 December 2024 - To: 30 December 2024
 
-C++     5 hrs 30 mins   ████████████████████████░   96.13 %
-Other   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+C++     8 hrs 24 mins   ████████████████████████▒   97.43 %
+Other   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
