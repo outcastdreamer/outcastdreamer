@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-Python       5 hrs 38 mins   ██████████████▓░░░░░░░░░░   59.23 %
-C++          3 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   36.25 %
-CSV          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Python       6 hrs 7 mins    ████████████████▒░░░░░░░░   65.38 %
+C++          2 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+CSV          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 SSH Key      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
