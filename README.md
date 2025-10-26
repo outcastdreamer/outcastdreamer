@@ -44,11 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Python   5 hrs 14 mins   █████████████████░░░░░░░░   68.41 %
-C++      2 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.73 %
-Other    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Python   6 hrs 21 mins   ██████████████████▒░░░░░░   72.71 %
+C++      2 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
+Other    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
