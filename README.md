@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2026 - To: 09 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-C++          3 hrs 49 mins   ████████████████████████░   96.17 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+C++          5 mins          ████████▓░░░░░░░░░░░░░░░░   34.62 %
+SSH Config   4 mins          ███████░░░░░░░░░░░░░░░░░░   28.42 %
+Bash         3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+JSON         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
 ```
 
 <!--END_SECTION:waka-->
