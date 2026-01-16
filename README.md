@@ -44,11 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Bash   3 mins          ██████████████▒░░░░░░░░░░   57.12 %
-JSON   2 mins          █████████▒░░░░░░░░░░░░░░░   37.62 %
-C++    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
