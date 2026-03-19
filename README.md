@@ -44,11 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2026 - To: 16 March 2026
+From: 11 March 2026 - To: 18 March 2026
 
-C++               3 hrs 18 mins         █████████████████████████   99.70 %
-Text              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C++               6 hrs 13 mins         ████████████████████████▒   97.27 %
+C                 9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Text              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
