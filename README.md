@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2026 - To: 04 October 2026
+From: 28 September 2026 - To: 05 October 2026
 
-Markdown     4 hrs 39 mins         ██████████████░░░░░░░░░░░   55.72 %
-Python       1 hr 58 mins          ██████░░░░░░░░░░░░░░░░░░░   23.66 %
-C++          24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Other        21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JavaScript   20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Markdown     4 hrs 31 mins         █████████████▓░░░░░░░░░░░   54.96 %
+Python       1 hr 44 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+C++          48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Other        20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JavaScript   18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
