@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2026 - To: 23 October 2026
+From: 17 October 2026 - To: 24 October 2026
 
-Python       20 mins               ██████████████▒░░░░░░░░░░   56.98 %
-Markdown     12 mins               ████████▓░░░░░░░░░░░░░░░░   34.44 %
-Other        1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-JavaScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
